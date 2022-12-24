@@ -32,3 +32,15 @@ main{
     transform: translate(-63%, 20%);
     height: 10%;
 }
+
+.pokemon_data{
+    position: absolute;
+    top: 53.5%;
+    right: 27%;
+    color: #aaa;
+}
+
+.pokemon_name{
+    color: #3a444d;
+    text-transform: capitalize;
+}
