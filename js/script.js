@@ -36,3 +36,5 @@ form.addEventListener('submit', () => {
     event.preventDefault();
     renderPokemon(input.value.toLowerCase());
 })
+
+renderPokemon('1')
